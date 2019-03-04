@@ -1,0 +1,260 @@
+{
+  "Main Room": [
+    {
+      "id": "1-1",
+      "name": "52",
+      "shape": "square"
+    },
+    {
+      "id": "5-1",
+      "name": "53",
+      "shape": "square"
+    },
+    {
+      "id": "9-1",
+      "name": "57",
+      "shape": "square"
+    },
+    {
+      "id": "13-1",
+      "name": "46",
+      "shape": "square"
+    },
+    {
+      "id": "17-1",
+      "name": "47",
+      "shape": "circle"
+    },
+    {
+      "id": "1-5",
+      "name": "51",
+      "shape": "square"
+    },
+    {
+      "id": "5-5",
+      "name": "54",
+      "shape": "square"
+    },
+    {
+      "id": "9-5",
+      "name": "56",
+      "shape": "round"
+    },
+    {
+      "id": "13-5",
+      "name": "45",
+      "shape": "square"
+    },
+    {
+      "id": "7-6",
+      "name": "55",
+      "shape": "square"
+    },
+    {
+      "id": "17-7",
+      "name": "48",
+      "shape": "square"
+    },
+    {
+      "id": "13-9",
+      "name": "44",
+      "shape": "square"
+    },
+    {
+      "id": "13-13",
+      "name": "43",
+      "shape": "square"
+    },
+    {
+      "id": "17-13",
+      "name": "49",
+      "shape": "circle"
+    }
+  ],
+  "West Patio": [
+    {
+      "id": "3-1",
+      "name": "100",
+      "shape": "square"
+    },
+    {
+      "id": "7-1",
+      "name": "101",
+      "shape": "square"
+    },
+    {
+      "id": "1-4",
+      "name": "21",
+      "shape": "square"
+    },
+    {
+      "id": "5-4",
+      "name": "22",
+      "shape": "square"
+    },
+    {
+      "id": "9-4",
+      "name": "23",
+      "shape": "square"
+    },
+    {
+      "id": "13-4",
+      "name": "24",
+      "shape": "square"
+    },
+    {
+      "id": "5-7",
+      "name": "20",
+      "shape": "square"
+    },
+    {
+      "id": "9-7",
+      "name": "19",
+      "shape": "square"
+    },
+    {
+      "id": "13-7",
+      "name": "18",
+      "shape": "square"
+    },
+    {
+      "id": "1-8",
+      "name": "14",
+      "shape": "square"
+    },
+    {
+      "id": "5-10",
+      "name": "15",
+      "shape": "square"
+    },
+    {
+      "id": "8-10",
+      "name": "16",
+      "shape": "square"
+    },
+    {
+      "id": "12-10",
+      "name": "17",
+      "shape": "square"
+    },
+    {
+      "id": "1-13",
+      "name": "13",
+      "shape": "square"
+    },
+    {
+      "id": "6-13",
+      "name": "12",
+      "shape": "square"
+    },
+    {
+      "id": "11-13",
+      "name": "11",
+      "shape": "square"
+    }
+  ],
+  "East Patio": [
+    {
+      "id": "3-1",
+      "name": "102",
+      "shape": "square"
+    },
+    {
+      "id": "7-1",
+      "name": "103",
+      "shape": "square"
+    },
+    {
+      "id": "3-4",
+      "name": "40/41",
+      "shape": "square"
+    },
+    {
+      "id": "11-4",
+      "name": "39",
+      "shape": "square"
+    },
+    {
+      "id": "1-7",
+      "name": "35",
+      "shape": "square"
+    },
+    {
+      "id": "5-7",
+      "name": "36",
+      "shape": "square"
+    },
+    {
+      "id": "9-7",
+      "name": "37",
+      "shape": "square"
+    },
+    {
+      "id": "13-7",
+      "name": "38",
+      "shape": "square"
+    },
+    {
+      "id": "5-10",
+      "name": "33/34",
+      "shape": "square"
+    },
+    {
+      "id": "1-13",
+      "name": "30",
+      "shape": "square"
+    },
+    {
+      "id": "5-13",
+      "name": "31",
+      "shape": "square"
+    },
+    {
+      "id": "9-13",
+      "name": "32",
+      "shape": "square"
+    }
+  ],
+  "Abbey": [
+    {
+      "id": "1-1",
+      "name": "61",
+      "shape": "square"
+    },
+    {
+      "id": "5-1",
+      "name": "71",
+      "shape": "square"
+    },
+    {
+      "id": "13-1",
+      "name": "91/92/93/94",
+      "shape": "square"
+    },
+    {
+      "id": "1-5",
+      "name": "62",
+      "shape": "square"
+    },
+    {
+      "id": "1-9",
+      "name": "63",
+      "shape": "square"
+    },
+    {
+      "id": "1-13",
+      "name": "64",
+      "shape": "square"
+    },
+    {
+      "id": "5-13",
+      "name": "74",
+      "shape": "square"
+    },
+    {
+      "id": "9-13",
+      "name": "83",
+      "shape": "square"
+    }
+  ]
+}
